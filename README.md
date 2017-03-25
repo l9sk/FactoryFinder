@@ -14,8 +14,8 @@ The Community Edition has a few drawbacks. These are as follows:
 
 * HTTPS Support
 * Multi-Threading Support
-Support for All HTTP Ports
-Optional Crawler Support
-More Fingerprinting Options
-Vulnerability Detection Support
-Update-able Vulnerability Database 
+* Support for All HTTP Ports
+* Optional Crawler Support
+* More Fingerprinting Options
+* Vulnerability Detection Support
+* Update-able Vulnerability Database 
