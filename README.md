@@ -18,7 +18,4 @@ The Community Edition has a few drawbacks. These are as follows:
 * Optional Crawler Support
 * More Fingerprinting Options
 * Vulnerability Detection Support
-* Update-able Vulnerability Database 
-
-
-                       Any support for the community edition is welcome. 
+* Update-able Vulnerability Database
