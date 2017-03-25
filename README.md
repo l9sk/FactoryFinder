@@ -7,8 +7,8 @@ FactoryFinder,
 
 * Detects default webpages(preferrably in an internal network) and prints greppable output.
 * Mimics a browser.
-* Detects web services and their versions
-* Finds vulnerabilities based on version numbers
+* Detects web services and their versions.
+* Finds vulnerabilities based on version numbers.
 
 
 The Community Edition has a few drawbacks. These are as follows:
