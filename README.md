@@ -4,9 +4,10 @@
 OSINT Default Web Page Finder + Web Service Detection + Vulnerability Analysis
 
 FactoryFinder,
-Detects default webpages(preferrably in an internal network) and prints greppable output.
-Mimics a browser.
-Detects web services and their versions
+
+*Detects default webpages(preferrably in an internal network) and prints greppable output.
+*Mimics a browser.
+*Detects web services and their versions
 Finds vulnerabilities based on version numbers
 
 
